@@ -1,4 +1,4 @@
-<p align="left">Olá! Aqui está o Douglas Henrique...<br><br><br>🔭 Sou um Profissional em transição de carreira, atualmente sou Barbeiro, busco novos desafios na área de programação e desenvolvimento.<br>🌱 Estou Cursando 3º Semestre de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Campinas/SP.</p>
+<p align="left">Olá! Aqui está o Douglas Henrique...<br><br><br>🔭 Sou um Profissional em transição de carreira, atualmente sou Barbeiro, busco novos desafios na área de programação e desenvolvimento.<br>🌱 Estou Cursando 4º Semestre de Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera Campinas/SP.</p>
 
 ###
 
