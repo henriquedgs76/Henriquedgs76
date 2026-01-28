@@ -1,102 +1,67 @@
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 # 👋 Olá! Eu sou o **Douglas Henrique**
-### 🚀 Desenvolvedor Backend Web | ASP.NET Core • C# • SQL
+### 🚀 Desenvolvedor Backend .NET | C# • ASP.NET Core • SQL Server
 
-Sou desenvolvedor focado em **Backend**, criando APIs sólidas, seguras, escaláveis e preparadas para produção.  
-No dia a dia trabalho com integrações entre sistemas, auditoria, banco de dados, regras de negócio e automações profissionais.
+Sou um desenvolvedor focado no ecossistema **Backend**, especializado em criar APIs sólidas, escaláveis e prontas para o mundo real. Atualmente, atuo na manutenção de sistemas em produção, lidando com regras de negócio complexas, integrações de hardware e otimização de banco de dados.
+
+📍 **Campinas/SP** 🌐 **Portfólio Online:** [Acesse meu site aqui](https://henriquedgs76.github.io/meu-portfolio/)
 
 ---
 
-# 🔥 **Badges do meu stack**
+# 🔥 **Tech Stack**
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3775A9?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-
-
----
-
-# 🔧 **Stack**
-
-- **C# • ASP.NET Core**
-- **Entity Framework Core**
-- **APIs REST**
-- **Integrações • Webhooks • ISAPI • Automação**
-- **SQL Server • MySQL**
-- **Arquitetura em camadas • Clean Architecture (conceitos aplicados)**
-- **Autenticação • Autorização • Auditoria • Logs**
-- **Git • GitHub • Versionamento real de projeto**
+- **Linguagens & Frameworks:** C#, ASP.NET Core, Entity Framework Core, JavaScript, Python.
+- **Banco de Dados:** SQL Server, MySQL, PostgreSQL.
+- **Arquitetura & Boas Práticas:** Clean Architecture, Domain-Driven Design (DDD), APIs RESTful, Injeção de Dependência.
+- **Especialidades:** Integrações ISAPI (Hikvision), Webhooks, SignalR (Real-time), Auditoria e Logs de Produção.
 
 ---
 
 # 📦 **Projetos de Destaque**
 
-🟪 **Integração de Câmeras (Leitura de Placas + Auditoria + Webhooks)**  
-API completa integrando dispositivos físicos utilizando padrões ISAPI.
+💻 **[Hikvision ANPR Suite](https://github.com/henriquedgs76/Hikvision-ANPR-Suite)** Integração Backend com dispositivos de leitura de placa (LPR) via protocolo ISAPI. Processamento de eventos em tempo real com SignalR e auditoria completa de acessos.
 
-
-🟦 **Sistema de Gerenciamento de Cursos (C# - Backend)**  
-CRUD completo, autenticação e organização modular.
-
-
-🔹 *Outros projetos podem ser vistos nos repositórios.*
+🏁 **[Gestão de Estacionamento & Lava Rápido](http://henriquedgs76-001-site1.jtempurl.com/)** Sistema comercial completo em produção. Controle de fluxo financeiro, tarifação dinâmica e relatórios de fechamento de caixa automatizados.
 
 ---
 
-# 📊 **Minhas Estatísticas**
+# 📊 **Estatísticas**
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=henriquedgs76&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedgs76&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=henriquedgs76&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedgs76&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-# 🧠 **Skills**
+# 🎯 **Roadmap & Objetivos**
 
-- Criação de APIs realmente escaláveis  
-- Integração entre sistemas corporativos  
-- Manipulação e otimização de banco de dados  
-- Logs, auditoria, monitoramento e rastreabilidade  
-- Versionamento organizado com Git  
-- Construção de serviços independentes e reutilizáveis  
-- Processamento de dados em camadas  
-- Comunicação com dispositivos externos (câmeras, APIs de terceiros etc.)
+- 🛠️ **Foco Atual:** Aprimorar padrões de **Clean Architecture** e **Unit Testing**.
+- 🚀 **Performance:** Otimização de queries complexas e indexação em SQL Server.
+- 📚 **Aprendizado:** Explorando mensageria (RabbitMQ) e Microserviços.
+- 🤝 **Comunidade:** Contribuir ativamente para projetos Open Source.
 
 ---
 
-# 🎯 **Roadmap Atual**
+# 🤝 **Conecte-se comigo**
 
-✔ Aprimorar Clean Architecture e Domain Services  
-✔ Melhorar performance de consultas SQL  
-✔ Criar lib própria para integrações  
-✔ Contribuir para projetos Open Source  
-✔ Escalar para níveis avançados em backend .NET  
-
----
-
-# 💼 **O que eu faço como Backend**
-
-✔ APIs limpas, seguras, versionadas  
-✔ Integrações (REST, ISAPI, Webhooks, automações)  
-✔ Regras de negócio reais e complexas  
-✔ Manipulação e estruturação de bancos SQL  
-✔ Código organizado em camadas  
-✔ Logs, auditorias e rastreabilidade para produção  
+<div align="left">
+  <a href="mailto:douglasemanu2017@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/douglashenrique76/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5519992896532" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
 ---
-
-# 🤝 **Contato**
-
-<a href = "mailto:douglasemanu2017@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/douglashenrique76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+<p align="center"><i>"Foco em transformar regras de negócio complexas em código limpo e eficiente."</i></p>
