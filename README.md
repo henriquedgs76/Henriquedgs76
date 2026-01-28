@@ -40,14 +40,10 @@ No dia a dia trabalho com integrações entre sistemas, auditoria, banco de dado
 🟪 **Integração de Câmeras (Leitura de Placas + Auditoria + Webhooks)**  
 API completa integrando dispositivos físicos utilizando padrões ISAPI.
 
-🟩 **Sistema de Help Desk (C# + SQL Server + Windows Forms)**  
-Chamados, autenticação, logs, cadastros, workflows e relatórios.
 
 🟦 **Sistema de Gerenciamento de Cursos (C# - Backend)**  
 CRUD completo, autenticação e organização modular.
 
-🟧 **HamburgueriaZ (App Android)**  
-API + backend com lógica de pedidos e integrações.
 
 🔹 *Outros projetos podem ser vistos nos repositórios.*
 
