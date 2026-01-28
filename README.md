@@ -3,9 +3,11 @@
 # 👋 Olá! Eu sou o **Douglas Henrique**
 ### 🚀 Desenvolvedor Backend .NET | C# • ASP.NET Core • SQL Server
 
-Sou um desenvolvedor focado no ecossistema **Backend**, especializado em criar APIs sólidas, escaláveis e prontas para o mundo real. Atualmente, atuo na manutenção de sistemas em produção, lidando com regras de negócio complexas, integrações de hardware e otimização de banco de dados.
+Sou um desenvolvedor focado no ecossistema **Backend**, com forte viés em resolver problemas de negócio reais. Atualmente, atuo na manutenção de sistemas em produção, lidando com regras de negócio complexas, integrações de hardware e otimização de banco de dados. 
 
-📍 **Campinas/SP** 🌐 **Portfólio Online:** [Acesse meu site aqui](https://henriquedgs76.github.io/meu-portfolio/)
+**Diferencial:** Trago **8 anos de experiência em gestão**, o que me confere uma visão sistêmica sobre prazos, responsabilidade e entrega de valor para o cliente final.
+
+📍 **Campinas/SP** | 🌐 **Portfólio Online:** [Visite meu Portfólio](https://henriquedgs76.github.io/meu-portfolio/)
 
 ---
 
@@ -18,16 +20,18 @@ Sou um desenvolvedor focado no ecossistema **Backend**, especializado em criar A
 
 - **Linguagens & Frameworks:** C#, ASP.NET Core, Entity Framework Core, JavaScript, Python.
 - **Banco de Dados:** SQL Server, MySQL, PostgreSQL.
-- **Arquitetura & Boas Práticas:** Clean Architecture, Domain-Driven Design (DDD), APIs RESTful, Injeção de Dependência.
+- **Arquitetura & Boas Práticas:** Clean Architecture, SOLID, APIs RESTful, Injeção de Dependência.
 - **Especialidades:** Integrações ISAPI (Hikvision), Webhooks, SignalR (Real-time), Auditoria e Logs de Produção.
 
 ---
 
 # 📦 **Projetos de Destaque**
 
-💻 **[Hikvision ANPR Suite](https://github.com/henriquedgs76/Hikvision-ANPR-Suite)** Integração Backend com dispositivos de leitura de placa (LPR) via protocolo ISAPI. Processamento de eventos em tempo real com SignalR e auditoria completa de acessos.
+💻 **[Hikvision ANPR Suite](https://github.com/henriquedgs76/Hikvision-ANPR-Suite)** Integração Backend com dispositivos de leitura de placa (LPR). Processamento de eventos em tempo real com SignalR e arquitetura voltada a escalabilidade.
 
-🏁 **[Gestão de Estacionamento & Lava Rápido](http://henriquedgs76-001-site1.jtempurl.com/)** Sistema comercial completo em produção. Controle de fluxo financeiro, tarifação dinâmica e relatórios de fechamento de caixa automatizados.
+🏁 **[Gestão de Estacionamento & Lava Rápido](http://henriquedgs76-001-site1.jtempurl.com/)** Sistema comercial completo em produção. Controle de fluxo financeiro, tarifação dinâmica e relatórios automatizados, garantindo a operação diária do cliente.
+
+💈 **[Barbearia Vila Lemos](https://barbearia-vila-lemos.vercel.app/)** Projeto de interface institucional com foco em conversão e experiência do usuário (UX), integrado com APIs de comunicação direta.
 
 ---
 
@@ -42,10 +46,9 @@ Sou um desenvolvedor focado no ecossistema **Backend**, especializado em criar A
 
 # 🎯 **Roadmap & Objetivos**
 
-- 🛠️ **Foco Atual:** Aprimorar padrões de **Clean Architecture** e **Unit Testing**.
+- 🛠️ **Foco Atual:** Aprimorar padrões de **Clean Architecture** e **Testes Unitários**.
 - 🚀 **Performance:** Otimização de queries complexas e indexação em SQL Server.
-- 📚 **Aprendizado:** Explorando mensageria (RabbitMQ) e Microserviços.
-- 🤝 **Comunidade:** Contribuir ativamente para projetos Open Source.
+- 📚 **Aprendizado:** Explorando mensageria (**RabbitMQ**) e Microserviços.
 
 ---
 
@@ -64,4 +67,4 @@ Sou um desenvolvedor focado no ecossistema **Backend**, especializado em criar A
 </div>
 
 ---
-<p align="center"><i>"Foco em transformar regras de negócio complexas em código limpo e eficiente."</i></p>
+<p align="center"><i>"Transformando regras de negócio complexas em código limpo, eficiente e escalável."</i></p>
